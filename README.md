@@ -4,6 +4,9 @@ This will store the code and notes for the artificial intelligence unit. Feel fr
 Resources for further learning:
 
 https://www.coursera.org/learn/machine-learning ** This is a highly recommended course you can take for FREE!
+
 https://www.tensorflow.org
+
 https://keras.io
+
 http://cs231n.github.io
